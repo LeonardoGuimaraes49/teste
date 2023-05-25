@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    const int tamanhoVetor = 5;
+    const int tamanhoVetor = 7;
     int vetor[tamanhoVetor];
 
     for (int i = 0; i < tamanhoVetor; i++) {
